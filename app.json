@@ -1,0 +1,61 @@
+{
+  "name": "اكس دارك",
+  "description": "بوت تشغيل الاغاني في المكالمات.",
+  "keywords": ["music", "voicechat", "telegram"],
+  "logo": "https://telegra.ph/file/fdbaab61d8b1543030897.jpg",
+  "repository": "https://github.com/MH7MD1/X_DARK",
+  "stack": "container",
+  "env": {
+    "SESSION_NAME": {
+      "description": "كود البايرو",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "توكن بوتك",
+      "required": true
+    },
+    "BOT_NAME": {
+      "description": "اسم بوتك.",
+      "required": false,
+      "value": ""
+    },
+    "BOT_USERNAME": {
+      "description": "معرف بوتك",
+      "required": true,
+      "value": ""
+    },
+    "OWNER_USERNAME": {
+      "description": "معرف حساب المالك",
+      "required": true,
+      "value": "B_9_O"
+    },
+    "SUPPORT_GROUP": {
+      "description": "معرف جروب الدعم بدون @",
+      "required": true,
+      "value": "CHVOTLX"
+    },
+    "API_ID": {
+      "description": "ضع ايبي ايدي",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "ايبي هاش",
+      "required": true
+    },
+    "BOT_IMG": {
+      "description": "صورهالبوت",
+      "required": false,
+      "value": "https://telegra.ph/file/fdbaab61d8b1543030897.jpg"
+    },
+    "SUDO_USERS": {
+      "description": "ايدي الادمن.",
+      "required": true,
+      "value": "5280801259"
+    },
+    "DURATION_LIMIT": {
+      "description": "اتركها.",
+      "required": true,
+      "value": "120"
+    }
+  }
+}
