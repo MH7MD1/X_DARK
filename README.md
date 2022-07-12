@@ -1,2 +1,2 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Source-X+Dark!;A+simple+Music+stream+bot!;with+all+Features!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Source+Xdark!;مرحبا بك+في سورس+اكس+دارك!)
 </p>
